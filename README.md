@@ -4,7 +4,7 @@ Buenass, tengo 19 años y estoy en el segundo año de la carrera.
 
 Legajo: 209.081-8
 
-!(foto.jpg)
+!(/assets/images/foto.jpg)
 
 # Sobre mí
 
